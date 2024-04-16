@@ -1,0 +1,23 @@
+
+/* Adjacent Sibling Combinator (+) */
+
+h3 + p{
+    font-style: italic;
+}
+/* General Sibling Combinator (~) */
+
+h3 ~ p {
+    font-size: larger;
+    background-color: lightgreen;
+}
+
+/* Child Combinator (>) */
+.spell > h3 {
+    color: green
+}
+
+/* Descendant Combinator ( ) */
+
+.spell-chapter .spell {
+    border-style: solid;
+}

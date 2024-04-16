@@ -1,0 +1,44 @@
+/* Color Styles */
+h1{
+    color: 	hsl(258, 93%, 47%);
+}
+
+h2, h3 {
+    color: rgb(72, 28, 233);
+}
+
+body {
+    background: linear-gradient(to top, #7b7bfce1, white)
+}
+
+/* Font Styles */
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    font-weight: 600;
+    font-style:italic
+  }
+
+h2, h3 {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+/* Font Size */
+
+h1 {
+    font-size: 50px;
+}
+
+h2, h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    font-weight: bold;
+}
