@@ -1,0 +1,14 @@
+.box-model {
+    width: 280px;
+    height: 280px;
+    background-color: whitesmoke;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 20px solid;
+    border-radius: 20px;
+}
+
+p {
+    margin-left: 15px;
+    margin-top: 15px;
+}
